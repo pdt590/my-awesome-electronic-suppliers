@@ -13,7 +13,7 @@
 | ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | |
 | Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
 | Linhkienst | [Website](https://linhkienst.com) | `Linh kiện`, `thiết bị` | |
-| esShop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
+| ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
 | TME | [Website](http://tme.vn/) | `Linh kiện`, `thiết bị` | |
 | Ahtlab | [Website](https://ahtlab.com/) | `Linh kiện`, `thiết bị` | |
 | Cường Thuận | [Website](https://linhkienbandan.com/) | `Linh kiện`, `thiết bị` | |
@@ -22,13 +22,13 @@
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Linh kiện`, `thiết bị` | |
 | HTPro | [Website](https://htpro.vn/) | `Linh kiện`, `thiết bị` | |
 | Vietnic| [Website](https://www.vietnic.vn/) | `Linh kiện`, `thiết bị` | |
-| Linh Kien CNC | [Website](http://linhkiencnc.com/) | `CNC`, `máy in` | |
 | SMD Elec | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | |
 | Điện Tử Giá Tốt | [Website](http://dientugiatot.vn/) | `Linh kiện`, `thiết bị` | |
 | TGPCB | [Website](https://shopee.vn/shop/60399497/search) | `Linh kiện`, `thiết bị` | Kinh doanh cá nhân (Digikey, Mouser)|
 | ThienPhucElec | [Website](https://thienphucelectronics.com/) | `Linh kiện`, `thiết bị` | |
 | LinhKienMachDien | [Website](http://linhkienmachdien.com/) | `Linh kiện`, `thiết bị` | |
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Linh kiện`, `thiết bị` | |
+| Thegioiic | [Website](https://thegioiic.com/) | `Linh kiện`, `thiết bị` | |
 | Biến Áp Xung | [Biến Áp Xung](https://www.facebook.com/profile.php?id=100011556900439) | `Biến áp` | |
 | Sensors Việt Nam | [Website](https://sensors.vn/) | `Sensor` | |
 
@@ -63,6 +63,8 @@
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng link kiện` | |
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Gia công SMT, PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Gia công sản xuất điện tử` | |
+| Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | |
+| Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | |
 
 ## Foreign
 
@@ -80,3 +82,4 @@
 | In ấn Bao Bì | [Website](https://www.facebook.com/baobitemnhan/) | `In ấn bao bì` | |
 | Cloudfermi | [Website](http://www.cloudfermi.com/) | `Sản phẩm đầu cuối` | |
 | SMT | [Website](http://smtparts.vn) | `Thiết bị, phụ tùng SMT` | |
+| Linh Kien CNC | [Website](http://linhkiencnc.com/) | `CNC`, `máy in` | |
