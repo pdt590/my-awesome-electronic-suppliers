@@ -29,6 +29,8 @@
 | LinhKienMachDien | [Website](http://linhkienmachdien.com/) | `Linh kiện`, `thiết bị` | |
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Linh kiện`, `thiết bị` | |
 | Thegioiic | [Website](https://thegioiic.com/) | `Linh kiện`, `thiết bị` | |
+| LinhKienST | [Website](https://linhkienst.com/) | `Linh kiện`, `thiết bị` | |
+| THchip | [Website](https://thchip.vn/) | `Linh kiện`, `thiết bị` | |
 | Biến Áp Xung | [Biến Áp Xung](https://www.facebook.com/profile.php?id=100011556900439) | `Biến áp` | |
 | Sensors Việt Nam | [Website](https://sensors.vn/) | `Sensor` | |
 
@@ -50,11 +52,11 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| SMT Minh Hà | [Website 1](http://www.smtminhha.com/), [Website 2](https://mht.vn) | `Gia công SMT`, `Gia công PCB` | |
+| SMT Minh Hà | [Website](http://www.smtminhha.com/)| `Gia công SMT`, `Gia công PCB` | |
 | KimsonPCB | [Website](http://kimsonpcb.vn) | `Mạch in`, `Decal phím bấm` | |
 | ThienLamPCB | [Website](http://www.thienlampcb.com/) | `Mạch in` | |
 | DucVietHaPCB | [Website](https://www.facebook.com/people/%C4%90%E1%BB%A9c-Vi%E1%BB%87t-H%C3%A0/100009798124337) | `Mạch in` | |
-| Makerbox | [Website](http://project.makerbox.vn/) | `Hàn Linh kiện` | |
+| Makerbox | [Website](http://project.makerbox.vn/) | `R&D, Gia Công SMT, Gia Công Vỏ Hộp, Gia Công Cắt Khắc Laser Mica` | |
 | Vohop | [Website](http://vohop.net/) | `Vỏ hộp`, `Khắc Laser` | |
 | Fukusei | [Website](http://fukusei.vn/) | `Gia công SMT`, `Vỏ hộp` | |
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Mạch in, gia công PCB` | |
