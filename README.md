@@ -31,6 +31,9 @@
 | Thegioiic | [Website](https://thegioiic.com/) | `Linh kiện`, `thiết bị` | |
 | LinhKienST | [Website](https://linhkienst.com/) | `Linh kiện`, `thiết bị` | |
 | THchip | [Website](https://thchip.vn/) | `Linh kiện`, `thiết bị` | |
+| LinhKienChatLuong | [Website](http://linhkienchatluong.vn/) | `Linh kiện`, `thiết bị` | |
+| PhucLanShop | [Website](http://phuclanshop.com/) | `Linh kiện`, `thiết bị` | |
+| LinhKienViet | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | |
 | Biến Áp Xung | [Biến Áp Xung](https://www.facebook.com/profile.php?id=100011556900439) | `Biến áp` | |
 | Sensors Việt Nam | [Website](https://sensors.vn/) | `Sensor` | |
 
@@ -64,6 +67,7 @@
 | AHTlab | [Website](https://ahtlab.com/) | `Thiết kế PCB, Gia công PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng link kiện` | |
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Gia công SMT, PCB` | |
+| HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Gia công sản xuất điện tử` | |
 | Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | |
 | Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | |
@@ -73,7 +77,7 @@
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
 | 深圳市精匠玻璃科技有限公司  | [Website](https://jingjang.1688.com/?spm=a261y.7663282.autotrace-topNav.1.6df16d93MLogH4) | `Mặt kính` | |
-
+| 深圳LCD液晶屏LED背光源生 | [Website](https://item.taobao.com/item.htm?spm=a1z02.1.2016030118.d2016038.3726782dpIMngJ&id=565878864894&scm=1007.10157.81291.100200300000000&pvid=2e6fd92e-ba20-4104-881b-fdd9be6b95b2) | `Tấm dẫn cảm ứng` | |
 # Others (Khác)
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
