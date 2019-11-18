@@ -9,6 +9,8 @@
 | Hshop | [Website](https://hshop.vn/) | `Linh kiện`, `thiết bị` | |
 | Mualinhkien | [Website](https://mualinhkien.vn/) | `Linh kiện`, `thiết bị` | |
 | IoTMakerVN | [Website](https://iotmaker.vn/) | `Linh kiện`, `thiết bị` | |
+| Lập Trình Điều Khiển | [Website](http://laptrinhdieukhien.com/) | `Linh kiện`, `thiết bị` | |
+| TAE Shop | [Website](https://tae.vn/) | `Linh kiện`, `thiết bị` | |
 | Linhkienrobotics | [Website](http://linhkienrobotics.com/) | `Linh kiện`, `thiết bị` | |
 | ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | |
 | Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
@@ -55,6 +57,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Smartpcb88| [Website](https://smartpcb88.com/) | `Gia công PCB` | |
 | SMT Minh Hà | [Website](http://www.smtminhha.com/)| `Gia công SMT`, `Gia công PCB` | |
 | KimsonPCB | [Website](http://kimsonpcb.vn) | `Mạch in`, `Decal phím bấm` | |
 | ThienLamPCB | [Website](http://www.thienlampcb.com/) | `Mạch in` | |
