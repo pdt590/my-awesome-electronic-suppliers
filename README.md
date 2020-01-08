@@ -36,6 +36,7 @@
 | LinhKienChatLuong | [Website](http://linhkienchatluong.vn/) | `Linh kiện`, `thiết bị` | |
 | PhucLanShop | [Website](http://phuclanshop.com/) | `Linh kiện`, `thiết bị` | |
 | LinhKienViet | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | |
+| PNlab | [Website](https://www.pnlabvn.com/) | `Linh kiện`, `thiết bị` | |
 | Biến Áp Xung | [Biến Áp Xung](https://www.facebook.com/profile.php?id=100011556900439) | `Biến áp` | |
 | Sensors Việt Nam | [Website](https://sensors.vn/) | `Sensor` | |
 
@@ -72,6 +73,7 @@
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Gia công SMT, PCB` | |
 | HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Gia công sản xuất điện tử` | |
+| PNlab | [Website](https://www.pnlabvn.com/) | `Gia công sản xuất điện tử` | |
 | Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | |
 | Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | |
 
