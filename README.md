@@ -58,6 +58,9 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Kha Thành| [Website](https://www.pcb24h.com/) | `Gia công PCB` | |
+| Thành Long | [Website](http://thanhlongpcb.com.vn/dich-vu/)| `Gia công SMT`, `Gia công PCB` | |
+| Sao Kim| [Website](http://www.saokim.vn/) | `Gia công PCB` | |
 | Smartpcb88| [Website](https://smartpcb88.com/) | `Gia công PCB` | |
 | SMT Minh Hà | [Website](http://www.smtminhha.com/)| `Gia công SMT`, `Gia công PCB` | |
 | KimsonPCB | [Website](http://kimsonpcb.vn) | `Mạch in`, `Decal phím bấm` | |
