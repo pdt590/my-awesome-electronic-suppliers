@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| CXT| [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | |
 | Sản Phẩm SmartHome | [Website](https://sanphamsmarthome.vn/) | `Linh kiện`, `thiết bị` | |
 | Tuấn Cường | [Website](https://linhkientuancuong.com/) | `Linh kiện`, `thiết bị` | |
 | Banlinhkien | [Website](https://banlinhkien.com/) | `Linh kiện`, `thiết bị` | |
@@ -60,8 +61,10 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| Mạch In Tuấn Cường| [Website](http://machintuancuong.com/) | `Gia công PCB` | |
-| Kha Thành| [Website](https://www.pcb24h.com/) | `Gia công PCB` | |
+| SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | |
+| CXT | [Website](https://machin.cxt.vn/) | `Gia công PCB`, `Gia công hàn lắp` | |
+| Mạch In Tuấn Cường | [Website](http://machintuancuong.com/) | `Gia công PCB` | |
+| Kha Thành | [Website](https://www.pcb24h.com/) | `Gia công PCB` | |
 | Thành Long | [Website](http://thanhlongpcb.com.vn/dich-vu/)| `Gia công SMT`, `Gia công PCB` | |
 | Sao Kim| [Website](http://www.saokim.vn/) | `Gia công PCB` | |
 | Smartpcb88| [Website](https://smartpcb88.com/) | `Gia công PCB` | |
