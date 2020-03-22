@@ -86,6 +86,7 @@
 | PNlab | [Website](https://www.pnlabvn.com/) | `Gia công sản xuất điện tử` | |
 | Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | |
 | Phím Điện Tử | [Website](http://phimdientu.vn/) | `Tem nhãn, Decal, Bề mặt máy` | |
+| Anh Duong Tech | [Website](https://anhduongtech.vn/) | `Decal, CNC, Đặt linh kiện` | |
 | Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | |
 
 ## Foreign
