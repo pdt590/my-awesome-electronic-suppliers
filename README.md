@@ -4,6 +4,13 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| KT Shop| [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
+| LinhKienCauGiay| [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
+| BachViet| [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
+| Nshop| [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | |
+| ICdayroi| [Website](https://icdayroi.com/) | `Linh kiện`, `thiết bị`, `Cắt khắc laser` | |
+| Thegioichip| [Website](https://thegioichip.com.vn/) | `Linh kiện`, `thiết bị` | |
+| Roboconshop| [Website](http://www.roboconshop.com/San-Pham.aspx) | `Linh kiện`, `thiết bị` | |
 | ATC| [Website](https://at-sky.com/san-pham.html) | `Linh kiện`, `thiết bị` | |
 | CXT| [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | |
 | Sản Phẩm SmartHome | [Website](https://sanphamsmarthome.vn/) | `Linh kiện`, `thiết bị` | |
