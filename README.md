@@ -69,6 +69,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| ADN Electronics | [Website](http://anhduynguyenpcb.com) | `Gia công PCB` | |
 | SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | |
 | CXT | [Website](https://machin.cxt.vn/) | `Gia công PCB`, `Gia công hàn lắp` | |
 | Mạch In Tuấn Cường | [Website](http://machintuancuong.com/) | `Gia công PCB` | |
