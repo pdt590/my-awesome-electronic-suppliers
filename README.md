@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Truong Thinh| [Website](http://tti.vn/) | `Vỏ hộp` | |
 | KT Shop| [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
 | LinhKienCauGiay| [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
 | BachViet| [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
@@ -101,6 +102,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Boxco  | [Website](http://www.boxco.eu/) | `Vỏ hộp` | |
 | 深圳市精匠玻璃科技有限公司  | [Website](https://jingjang.1688.com/?spm=a261y.7663282.autotrace-topNav.1.6df16d93MLogH4) | `Mặt kính` | |
 | 深圳LCD液晶屏LED背光源生 | [Website](https://item.taobao.com/item.htm?spm=a1z02.1.2016030118.d2016038.3726782dpIMngJ&id=565878864894&scm=1007.10157.81291.100200300000000&pvid=2e6fd92e-ba20-4104-881b-fdd9be6b95b2) | `Tấm dẫn cảm ứng` | |
 # Others (Khác)
