@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Nihonsuperior| [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | |
 | Truong Thinh| [Website](http://tti.vn/) | `Vỏ hộp` | |
 | KT Shop| [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
 | LinhKienCauGiay| [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
