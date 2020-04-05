@@ -4,7 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| EMIN | [Website](https://emin.vn/) | `Thiết bị đo` | |
+| EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
 | Nihonsuperior| [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | |
 | Truong Thinh| [Website](http://tti.vn/) | `Vỏ hộp` | |
 | KT Shop| [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
