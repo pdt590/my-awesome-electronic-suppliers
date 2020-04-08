@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| CXT | [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | |
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
 | Nihonsuperior| [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | |
@@ -105,6 +106,8 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| JLCPCB  | [Website](https://jlcpcb.com/) | `Gia công PCB` | |
+| PCBWay  | [Website](https://www.pcbway.com/) | `Gia công PCB` | |
 | SZOMK  | [Website](https://www.chinaenclosure.com/) | `Vỏ hộp` | |
 | Boxco  | [Website](http://www.boxco.eu/) | `Vỏ hộp` | |
 | 深圳市精匠玻璃科技有限公司  | [Website](https://jingjang.1688.com/?spm=a261y.7663282.autotrace-topNav.1.6df16d93MLogH4) | `Mặt kính` | |
