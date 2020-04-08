@@ -4,7 +4,6 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| CXT | [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | |
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
 | Nihonsuperior| [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | |
