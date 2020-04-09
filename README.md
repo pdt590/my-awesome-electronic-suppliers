@@ -74,6 +74,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | |
 | ADN Electronics | [Website](http://anhduynguyenpcb.com) | `Gia công PCB` | |
 | SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | |
 | CXT | [Website](https://machin.cxt.vn/) | `Gia công PCB`, `Gia công hàn lắp` | |
