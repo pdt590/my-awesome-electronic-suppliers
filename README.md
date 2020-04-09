@@ -9,6 +9,7 @@
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
 | Nihonsuperior| [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | |
 | Truong Thinh| [Website](http://tti.vn/) | `Vỏ hộp` | |
+| Linh Kien 3M| [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | |
 | KT Shop| [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
 | LinhKienCauGiay| [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
 | BachViet| [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
