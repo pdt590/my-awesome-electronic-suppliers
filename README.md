@@ -7,18 +7,18 @@
 | PinNguonNuoi | [Website](http://www.pinnuoinguon.vn/index.aspx) | `Các loại Pin` | |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | |
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
-| Nihonsuperior| [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | |
-| Truong Thinh| [Website](http://tti.vn/) | `Vỏ hộp` | |
-| Linh Kien 3M| [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | |
-| KT Shop| [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
-| LinhKienCauGiay| [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
-| BachViet| [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
-| Nshop| [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | |
-| ICdayroi| [Website](https://icdayroi.com/) | `Linh kiện`, `thiết bị`, `Cắt khắc laser` | |
-| Thegioichip| [Website](https://thegioichip.com.vn/) | `Linh kiện`, `thiết bị` | |
-| Roboconshop| [Website](http://www.roboconshop.com/San-Pham.aspx) | `Linh kiện`, `thiết bị` | |
-| ATC| [Website](https://at-sky.com/san-pham.html) | `Linh kiện`, `thiết bị` | |
-| CXT| [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | |
+| Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN, HCM, ĐN |
+| Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | |
+| Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | |
+| KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
+| LinhKienCauGiay | [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
+| BachViet | [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
+| Nshop | [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | |
+| ICdayroi | [Website](https://icdayroi.com/) | `Linh kiện`, `thiết bị`, `Cắt khắc laser` | |
+| Thegioichip | [Website](https://thegioichip.com.vn/) | `Linh kiện`, `thiết bị` | |
+| Roboconshop | [Website](http://www.roboconshop.com/San-Pham.aspx) | `Linh kiện`, `thiết bị` | |
+| ATC | [Website](https://at-sky.com/san-pham.html) | `Linh kiện`, `thiết bị` | |
+| CXT | [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | HN |
 | Sản Phẩm SmartHome | [Website](https://sanphamsmarthome.vn/) | `Linh kiện`, `thiết bị` | |
 | Tuấn Cường | [Website](https://linhkientuancuong.com/) | `Linh kiện`, `thiết bị` | |
 | Banlinhkien | [Website](https://banlinhkien.com/) | `Linh kiện`, `thiết bị` | |
@@ -29,7 +29,7 @@
 | Lập Trình Điều Khiển | [Website](http://laptrinhdieukhien.com/) | `Linh kiện`, `thiết bị` | |
 | TAE Shop | [Website](https://tae.vn/) | `Linh kiện`, `thiết bị` | |
 | Linhkienrobotics | [Website](http://linhkienrobotics.com/) | `Linh kiện`, `thiết bị` | |
-| ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | |
+| ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | TP.HCM |
 | Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
 | Linhkienst | [Website](https://linhkienst.com) | `Linh kiện`, `thiết bị` | |
 | ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
@@ -75,10 +75,12 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | Bình Dương |
+| Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | Bình Dương |
 | NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | |
 | ADN Electronics | [Website](http://anhduynguyenpcb.com) | `Gia công PCB` | |
 | SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | |
-| CXT | [Website](https://machin.cxt.vn/) | `Gia công PCB`, `Gia công hàn lắp` | |
+| CXT | [Website](https://machin.cxt.vn/) | `Gia công PCB`, `Gia công hàn lắp` | HN |
 | Mạch In Tuấn Cường | [Website](http://machintuancuong.com/) | `Gia công PCB` | |
 | Kha Thành | [Website](https://www.pcb24h.com/) | `Gia công PCB` | |
 | Thành Long | [Website](http://thanhlongpcb.com.vn/dich-vu/)| `Gia công SMT`, `Gia công PCB` | |
