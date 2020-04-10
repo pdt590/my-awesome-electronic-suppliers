@@ -31,7 +31,6 @@
 | Linhkienrobotics | [Website](http://linhkienrobotics.com/) | `Linh kiện`, `thiết bị` | |
 | ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
-| Linhkienst | [Website](https://linhkienst.com) | `Linh kiện`, `thiết bị` | |
 | ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
 | TME | [Website](http://tme.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Ahtlab | [Website](https://ahtlab.com/) | `Linh kiện`, `thiết bị` | |
@@ -48,11 +47,11 @@
 | LinhKienMachDien | [Website](http://linhkienmachdien.com/) | `Linh kiện`, `thiết bị` | |
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Linh kiện`, `thiết bị` | |
 | Thegioiic | [Website](https://thegioiic.com/) | `Linh kiện`, `thiết bị` | HCM |
-| LinhKienST | [Website](https://linhkienst.com/) | `Linh kiện`, `thiết bị` | |
+| LinhKienST | [Website](https://linhkienst.com/) | `Linh kiện`, `thiết bị` | HN |
 | THchip | [Website](https://thchip.vn/) | `Linh kiện`, `thiết bị` | |
 | LinhKienChatLuong | [Website](http://linhkienchatluong.vn/) | `Linh kiện`, `thiết bị` | |
 | PhucLanShop | [Website](http://phuclanshop.com/) | `Linh kiện`, `thiết bị` | |
-| LinhKienViet | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | |
+| LinhKienViet | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | HN |
 | PNlab | [Website](https://www.pnlabvn.com/) | `Linh kiện`, `thiết bị` | |
 | Biến Áp Xung | [Biến Áp Xung](https://www.facebook.com/profile.php?id=100011556900439) | `Biến áp` | |
 | Sensors Việt Nam | [Website](https://sensors.vn/) | `Sensor` | |
