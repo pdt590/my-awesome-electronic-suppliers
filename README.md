@@ -29,7 +29,7 @@
 | Lập Trình Điều Khiển | [Website](http://laptrinhdieukhien.com/) | `Linh kiện`, `thiết bị` | |
 | TAE Shop | [Website](https://tae.vn/) | `Linh kiện`, `thiết bị` | |
 | Linhkienrobotics | [Website](http://linhkienrobotics.com/) | `Linh kiện`, `thiết bị` | |
-| ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | TP.HCM |
+| ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
 | Linhkienst | [Website](https://linhkienst.com) | `Linh kiện`, `thiết bị` | |
 | ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
@@ -75,8 +75,8 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | Bình Dương |
-| Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | Bình Dương |
+| Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | BD |
+| Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | BD |
 | NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | |
 | ADN Electronics | [Website](http://anhduynguyenpcb.com) | `Gia công PCB` | |
 | SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | |
