@@ -6,8 +6,8 @@
 |   ---   | ---     | ---      | ---   |
 | PinNguonNuoi | [Website](http://www.pinnuoinguon.vn/index.aspx) | `Các loại Pin` | HCM |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | |
-| EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
-| Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN, HCM, ĐN |
+| EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | HN, HCM, ĐN |
+| Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN |
 | Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | |
 | Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | |
 | KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
