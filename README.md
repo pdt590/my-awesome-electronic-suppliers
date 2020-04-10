@@ -4,7 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| PinNguonNuoi | [Website](http://www.pinnuoinguon.vn/index.aspx) | `Các loại Pin` | |
+| PinNguonNuoi | [Website](http://www.pinnuoinguon.vn/index.aspx) | `Các loại Pin` | HCM |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | |
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | |
 | Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN, HCM, ĐN |
@@ -22,7 +22,7 @@
 | Sản Phẩm SmartHome | [Website](https://sanphamsmarthome.vn/) | `Linh kiện`, `thiết bị` | |
 | Tuấn Cường | [Website](https://linhkientuancuong.com/) | `Linh kiện`, `thiết bị` | |
 | Banlinhkien | [Website](https://banlinhkien.com/) | `Linh kiện`, `thiết bị` | |
-| Linhkien69 | [Website](http://linhkien69.vn/) | `Linh kiện`, `thiết bị` | |
+| Linhkien69 | [Website](http://linhkien69.vn/) | `Linh kiện`, `thiết bị` | HN |
 | Hshop | [Website](https://hshop.vn/) | `Linh kiện`, `thiết bị` | |
 | Mualinhkien | [Website](https://mualinhkien.vn/) | `Linh kiện`, `thiết bị` | |
 | IoTMakerVN | [Website](https://iotmaker.vn/) | `Linh kiện`, `thiết bị` | |
@@ -33,7 +33,7 @@
 | Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
 | Linhkienst | [Website](https://linhkienst.com) | `Linh kiện`, `thiết bị` | |
 | ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
-| TME | [Website](http://tme.vn/) | `Linh kiện`, `thiết bị` | |
+| TME | [Website](http://tme.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Ahtlab | [Website](https://ahtlab.com/) | `Linh kiện`, `thiết bị` | |
 | Cường Thuận | [Website](https://linhkienbandan.com/) | `Linh kiện`, `thiết bị` | |
 | Nshopvn | [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | |
@@ -47,7 +47,7 @@
 | ThienPhucElec | [Website](https://thienphucelectronics.com/) | `Linh kiện`, `thiết bị` | |
 | LinhKienMachDien | [Website](http://linhkienmachdien.com/) | `Linh kiện`, `thiết bị` | |
 | Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Linh kiện`, `thiết bị` | |
-| Thegioiic | [Website](https://thegioiic.com/) | `Linh kiện`, `thiết bị` | |
+| Thegioiic | [Website](https://thegioiic.com/) | `Linh kiện`, `thiết bị` | HCM |
 | LinhKienST | [Website](https://linhkienst.com/) | `Linh kiện`, `thiết bị` | |
 | THchip | [Website](https://thchip.vn/) | `Linh kiện`, `thiết bị` | |
 | LinhKienChatLuong | [Website](http://linhkienchatluong.vn/) | `Linh kiện`, `thiết bị` | |
@@ -85,19 +85,19 @@
 | Kha Thành | [Website](https://www.pcb24h.com/) | `Gia công PCB` | |
 | Thành Long | [Website](http://thanhlongpcb.com.vn/dich-vu/)| `Gia công SMT`, `Gia công PCB` | |
 | Sao Kim| [Website](http://www.saokim.vn/) | `Gia công PCB` | |
-| Smartpcb88| [Website](https://smartpcb88.com/) | `Gia công PCB` | |
+| Smartpcb88| [Website](https://smartpcb88.com/) | `Gia công PCB` | HN |
 | SMT Minh Hà | [Website](http://www.smtminhha.com/)| `Gia công SMT`, `Gia công PCB` | |
 | KimsonPCB | [Website](http://kimsonpcb.vn) | `Mạch in`, `Decal phím bấm` | |
 | ThienLamPCB | [Website](http://www.thienlampcb.com/) | `Mạch in` | |
 | DucVietHaPCB | [Website](https://www.facebook.com/people/%C4%90%E1%BB%A9c-Vi%E1%BB%87t-H%C3%A0/100009798124337) | `Mạch in` | |
-| Makerbox | [Website](http://project.makerbox.vn/) | `R&D, Gia Công SMT, Gia Công Vỏ Hộp, Gia Công Cắt Khắc Laser Mica` | |
+| Makerbox | [Website](http://project.makerbox.vn/) | `SMT`, `Vỏ Hộp`, `Cắt Khắc Laser Mica` | HN |
 | Vohop | [Website](http://vohop.net/) | `Vỏ hộp`, `Khắc Laser` | |
 | Fukusei | [Website](http://fukusei.vn/) | `Gia công SMT`, `Vỏ hộp` | |
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Mạch in, gia công PCB` | |
 | Enogy | [Website](https://www.facebook.com/EnogyGlobal/) | `Gia công sản xuất điện tử` | |
 | AHTlab | [Website](https://ahtlab.com/) | `Thiết kế PCB, Gia công PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng link kiện` | |
-| Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Gia công SMT, PCB` | |
+| Điện Tử Quang Hiền | [Website](https://vntech24h.com) | `Gia công SMT` , `PCB` | |
 | HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Gia công sản xuất điện tử` | |
 | PNlab | [Website](https://www.pnlabvn.com/) | `Gia công sản xuất điện tử` | |
