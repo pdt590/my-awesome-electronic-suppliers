@@ -4,6 +4,8 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Dientu4u | [Website](https://www.dientu4u.com/) | `Linh kiện`, `thiết bị` | HN |
+| LinhKienDienTu | [Website](https://linhkiendientu.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | PinNguonNuoi | [Website](http://www.pinnuoinguon.vn/index.aspx) | `Các loại Pin` | HCM |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | |
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | HN, HCM, ĐN |
