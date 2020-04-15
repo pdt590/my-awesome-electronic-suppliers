@@ -65,12 +65,12 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| LCSC | [Website](https://lcsc.com/en) | `Linh kiện`, `thiết bị` | HN |
-| Mouser | [Website](https://www.mouser.vn/) | `Linh kiện`, `thiết bị` | Đại lý không ở VN? |
-| Arrow | [Website](https://www.arrow.com/) | `Linh kiện`, `thiết bị` | |
+| LCSC | [Website](https://lcsc.com/en) | `Linh kiện`, `thiết bị` | TQ |
+| Mouser | [Website](https://www.mouser.vn/) | `Linh kiện`, `thiết bị` | USA |
+| Arrow | [Website](https://www.arrow.com/) | `Linh kiện`, `thiết bị` |  |
 | Avnet | [Website](https://www.avnet.com/wps/portal/apac) | `Linh kiện`, `thiết bị` | |
 | Digikey | [Website](https://www.digikey.vn/) | `Linh kiện`, `thiết bị` | |
-| RS-online | [Website](https://de.rs-online.com) | `Linh kiện`, `thiết bị` | |
+| RS-online | [Website](https://de.rs-online.com) | `Linh kiện`, `thiết bị` | DE |
 | RichardsonRFPD | [Mr. Trưởng](https://www.facebook.com/huutruongle) | `Linh kiện`, `thiết bị` | |
 | E-SKY - Panasonic | [Mr. Ngọc](https://www.facebook.com/toan.trinhngoc.9) | `Relay`, `PIR`, `switch`, `connector` | |
 
