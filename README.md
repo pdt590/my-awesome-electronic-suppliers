@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Vntech24h | [Website](https://vntech24h.com/) | `Linh kiện`, `thiết bị` | HN |
 | Dientuspider | [Website](http://www.dientuspider.com/) | `Linh kiện`, `thiết bị` | ĐN |
 | Dientu360 | [Website](https://dientu360.com/) | `Linh kiện`, `thiết bị` | HN |
 | Dientu4u | [Website](https://www.dientu4u.com/) | `Linh kiện`, `thiết bị` | HN |
@@ -78,6 +79,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Vntech24h | [Website](https://vntech24h.com/) | `Gia công SMT`, `Gia công PCB` | HN |
 | Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | BD |
 | Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | BD |
 | NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | |
