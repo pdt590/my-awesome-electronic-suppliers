@@ -65,6 +65,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| LCSC | [Website](https://lcsc.com/en) | `Linh kiện`, `thiết bị` | HN |
 | Mouser | [Website](https://www.mouser.vn/) | `Linh kiện`, `thiết bị` | Đại lý không ở VN? |
 | Arrow | [Website](https://www.arrow.com/) | `Linh kiện`, `thiết bị` | |
 | Avnet | [Website](https://www.avnet.com/wps/portal/apac) | `Linh kiện`, `thiết bị` | |
