@@ -99,15 +99,15 @@
 | ThienLamPCB | [Website](http://www.thienlampcb.com/) | `Mạch in` | HCM |
 | DucVietHaPCB | [Website](https://www.facebook.com/people/%C4%90%E1%BB%A9c-Vi%E1%BB%87t-H%C3%A0/100009798124337) | `Mạch in` | HN |
 | Makerbox | [Website](http://project.makerbox.vn/) | `SMT`, `Vỏ Hộp`, `Cắt Khắc Laser Mica` | HN |
-| Vohop | [Website](http://vohop.net/) | `Vỏ hộp`, `Khắc Laser` | |
-| Fukusei | [Website](http://fukusei.vn/) | `Gia công SMT`, `Vỏ hộp` | |
+| Vohop | [Website](http://vohop.net/) | `Vỏ hộp`, `Khắc Laser` | HN* |
+| Fukusei | [Website](http://fukusei.vn/) | `Gia công SMT`, `Vỏ hộp` | HCM |
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Mạch in, gia công PCB` | HN |
-| Enogy | [Website](https://www.facebook.com/EnogyGlobal/) | `Gia công sản xuất điện tử` | |
-| AHTlab | [Website](https://ahtlab.com/) | `Thiết kế PCB, Gia công PCB` | |
-| Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng link kiện` | |
-| HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | |
-| Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Gia công sản xuất điện tử` | |
-| PNlab | [Website](https://www.pnlabvn.com/) | `Gia công sản xuất điện tử` | HN |
+| Enogy | [Website](https://enogyglobal.com/) | `Gia công sản xuất điện tử` | HN |
+| AHTlab | [Website](https://ahtlab.com/) | `Thiết kế PCB, Gia công PCB` | HCM |
+| Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng link kiện` | HN |
+| HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | HN |
+| Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Sản xuất điện tử` | HN |
+| PNlab | [Website](https://www.pnlabvn.com/) | `Gia công PCB`, `Sản xuất điện tử` | HN |
 | Phím Điện Tử | [Website](http://phimdientu.vn/) | `Tem nhãn, Decal, Bề mặt máy` | HN |
 | Anh Duong Tech | [Website](https://anhduongtech.vn/) | `Decal, CNC, Đặt linh kiện` | HCM |
 | Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | HN |
@@ -128,11 +128,11 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| Vietpacking | [Website](https://vietpackaging.com/) | `In ấn bao bì` | |
-| LinKin | [Website](https://www.facebook.com/tuigiaylinkin/) | `Logo & túi giấy` | |
-| Catbox | [Website](https://www.facebook.com/catboxvn/) | `In ấn bao bì` | |
-| In ấn Bao Bì | [Website](https://www.facebook.com/baobitemnhan/) | `In ấn bao bì` | |
-| Cloudfermi | [Website](http://www.cloudfermi.com/) | `Sản phẩm đầu cuối` | |
-| SMT | [Website](http://smtparts.vn) | `Thiết bị, phụ tùng SMT` | |
-| Linh Kien CNC | [Website](http://linhkiencnc.com/) | `CNC`, `máy in` | |
+| Vietpacking | [Website](https://vietpackaging.com/) | `In ấn bao bì` | HCM |
+| LinKin | [Website](https://www.facebook.com/tuigiaylinkin/) | `Logo & túi giấy` | ĐN |
+| Catbox | [Website](https://www.facebook.com/catboxvn/) | `In ấn bao bì` | HN |
+| In ấn Bao Bì | [Website](https://www.facebook.com/baobitemnhan/) | `In ấn bao bì` | HN |
+| Cloudfermi | [Website](http://www.cloudfermi.com/) | `Sản phẩm đầu cuối` | HCM |
+| SMT | [Website](http://smtparts.vn) | `Thiết bị, phụ tùng SMT` | HN |
+| Linh Kien CNC | [Website](http://linhkiencnc.com/) | `CNC`, `máy in` | HN |
 | NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | HN |
