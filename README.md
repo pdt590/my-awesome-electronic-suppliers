@@ -16,7 +16,7 @@
 | Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN |
 | Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | HCM |
 | Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | HCM |
-| Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | HN |
+| Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | HN, [Shopee](https://shopee.vn/linhkiendientu3m) |
 | KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | Shopee |
 | LinhKienCauGiay | [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | HN |
 | BachViet | [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | ĐN |
