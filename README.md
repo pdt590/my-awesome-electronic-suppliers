@@ -15,6 +15,7 @@
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | HN, HCM, ĐN |
 | Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN |
 | Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | HCM |
+| Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | HCM |
 | Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | HN |
 | KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | Shopee |
 | LinhKienCauGiay | [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | HN |
@@ -85,19 +86,18 @@
 | Vntech24h | [Website](https://vntech24h.com/) | `Gia công SMT`, `Gia công PCB` | HN |
 | Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | BD |
 | Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | BD |
-| NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | |
-| ADN Electronics | [Website](http://anhduynguyenpcb.com) | `Gia công PCB` | |
-| SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | |
+| ADN Electronics | [Website](http://anhduynguyenpcb.com) | `Gia công PCB` | HCM |
+| SKY PCB | [Website](https://www.facebook.com/SkyPcb/) | `Gia công PCB` | HCM |
 | CXT | [Website](https://machin.cxt.vn/) | `Gia công PCB`, `Gia công hàn lắp` | HN |
-| Mạch In Tuấn Cường | [Website](http://machintuancuong.com/) | `Gia công PCB` | |
-| Kha Thành | [Website](https://www.pcb24h.com/) | `Gia công PCB` | |
-| Thành Long | [Website](http://thanhlongpcb.com.vn/dich-vu/)| `Gia công SMT`, `Gia công PCB` | |
-| Sao Kim| [Website](http://www.saokim.vn/) | `Gia công PCB` | |
+| Mạch In Tuấn Cường | [Website](http://machintuancuong.com/) | `Gia công PCB` | HN |
+| Kha Thành | [Website](https://www.pcb24h.com/) | `Gia công PCB` | HCM |
+| Thành Long | [Website](http://thanhlongpcb.com.vn/dich-vu/)| `Gia công SMT`, `Gia công PCB` | HN |
+| Sao Kim| [Website](http://www.saokim.vn/) | `Gia công PCB` | HCM |
 | Smartpcb88| [Website](https://smartpcb88.com/) | `Gia công PCB` | HN |
 | SMT Minh Hà | [Website](http://www.smtminhha.com/)| `Gia công SMT`, `Gia công PCB` | HN |
-| KimsonPCB | [Website](http://kimsonpcb.vn) | `Mạch in`, `Decal phím bấm` | |
-| ThienLamPCB | [Website](http://www.thienlampcb.com/) | `Mạch in` | |
-| DucVietHaPCB | [Website](https://www.facebook.com/people/%C4%90%E1%BB%A9c-Vi%E1%BB%87t-H%C3%A0/100009798124337) | `Mạch in` | |
+| KimsonPCB | [Website](http://kimsonpcb.vn) | `Mạch in`, `Decal phím bấm` | HCM |
+| ThienLamPCB | [Website](http://www.thienlampcb.com/) | `Mạch in` | HCM |
+| DucVietHaPCB | [Website](https://www.facebook.com/people/%C4%90%E1%BB%A9c-Vi%E1%BB%87t-H%C3%A0/100009798124337) | `Mạch in` | HN |
 | Makerbox | [Website](http://project.makerbox.vn/) | `SMT`, `Vỏ Hộp`, `Cắt Khắc Laser Mica` | HN |
 | Vohop | [Website](http://vohop.net/) | `Vỏ hộp`, `Khắc Laser` | |
 | Fukusei | [Website](http://fukusei.vn/) | `Gia công SMT`, `Vỏ hộp` | |
@@ -108,21 +108,22 @@
 | HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Gia công sản xuất điện tử` | |
 | PNlab | [Website](https://www.pnlabvn.com/) | `Gia công sản xuất điện tử` | HN |
-| Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | |
-| Phím Điện Tử | [Website](http://phimdientu.vn/) | `Tem nhãn, Decal, Bề mặt máy` | |
-| Anh Duong Tech | [Website](https://anhduongtech.vn/) | `Decal, CNC, Đặt linh kiện` | |
-| Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | |
+| Phím Điện Tử | [Website](http://phimdientu.vn/) | `Tem nhãn, Decal, Bề mặt máy` | HN |
+| Anh Duong Tech | [Website](https://anhduongtech.vn/) | `Decal, CNC, Đặt linh kiện` | HCM |
+| Tổng hợp các cty gia công | [Website](https://www.jetro.go.jp/ext_images/world/asia/vn/company/SI2013_exhibitordirectory_rev.pdf) | `Tổng hợp` | HN |
 
 ## Foreign
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
-| JLCPCB  | [Website](https://jlcpcb.com/) | `Gia công PCB` | |
-| PCBWay  | [Website](https://www.pcbway.com/) | `Gia công PCB` | |
-| SZOMK  | [Website](https://www.chinaenclosure.com/) | `Vỏ hộp` | |
-| Boxco  | [Website](http://www.boxco.eu/) | `Vỏ hộp` | |
-| 深圳市精匠玻璃科技有限公司  | [Website](https://jingjang.1688.com/?spm=a261y.7663282.autotrace-topNav.1.6df16d93MLogH4) | `Mặt kính` | |
-| 深圳LCD液晶屏LED背光源生 | [Website](https://item.taobao.com/item.htm?spm=a1z02.1.2016030118.d2016038.3726782dpIMngJ&id=565878864894&scm=1007.10157.81291.100200300000000&pvid=2e6fd92e-ba20-4104-881b-fdd9be6b95b2) | `Tấm dẫn cảm ứng` | |
+| JLCPCB  | [Website](https://jlcpcb.com/) | `Gia công PCB` | CN |
+| PCBWay  | [Website](https://www.pcbway.com/) | `Gia công PCB` | CN |
+| SZOMK  | [Website](https://www.chinaenclosure.com/) | `Vỏ hộp` | CN |
+| Hongfashunda | [Website](http://www.enclosure-box-mould.com/) | `Vỏ hộp` | CN |
+| Boxco  | [Website](http://www.boxco.eu/) | `Vỏ hộp` | KR |
+| 深圳市精匠玻璃科技有限公司  | [Website](https://jingjang.1688.com/?spm=a261y.7663282.autotrace-topNav.1.6df16d93MLogH4) | `Mặt kính` | CN |
+| 深圳LCD液晶屏LED背光源生 | [Website](https://item.taobao.com/item.htm?spm=a1z02.1.2016030118.d2016038.3726782dpIMngJ&id=565878864894&scm=1007.10157.81291.100200300000000&pvid=2e6fd92e-ba20-4104-881b-fdd9be6b95b2) | `Tấm dẫn cảm ứng` | CN |
+
 # Others (Khác)
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
@@ -134,3 +135,4 @@
 | Cloudfermi | [Website](http://www.cloudfermi.com/) | `Sản phẩm đầu cuối` | |
 | SMT | [Website](http://smtparts.vn) | `Thiết bị, phụ tùng SMT` | |
 | Linh Kien CNC | [Website](http://linhkiencnc.com/) | `CNC`, `máy in` | |
+| NTD ONE | [Website](http://jigcnc.com/) | `CNC`, `Khuôn mẫu` | HN |
