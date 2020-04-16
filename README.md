@@ -14,39 +14,39 @@
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | HCM |
 | EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | HN, HCM, ĐN |
 | Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN |
-| Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | |
-| Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | |
-| KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
+| Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | HCM |
+| Linh Kien 3M | [Website](https://chotroihn.vn/) | `Linh kiện`, `thiết bị` | HN |
+| KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | Shopee |
 | LinhKienCauGiay | [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | HN |
-| BachViet | [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
+| BachViet | [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | ĐN |
 | Nshop | [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | HCM |
-| ICdayroi | [Website](https://icdayroi.com/) | `Linh kiện`, `thiết bị`, `Cắt khắc laser` | |
-| Thegioichip | [Website](https://thegioichip.com.vn/) | `Linh kiện`, `thiết bị` | |
-| Roboconshop | [Website](http://www.roboconshop.com/San-Pham.aspx) | `Linh kiện`, `thiết bị` | |
-| ATC | [Website](https://at-sky.com/san-pham.html) | `Linh kiện`, `thiết bị` | |
+| ICdayroi | [Website](https://icdayroi.com/) | `Linh kiện`, `thiết bị`, `Cắt khắc laser` | HCM |
+| Thegioichip | [Website](https://thegioichip.com.vn/) | `Linh kiện`, `thiết bị` | HCM |
+| Roboconshop | [Website](http://www.roboconshop.com/San-Pham.aspx) | `Linh kiện`, `thiết bị` | HCM |
+| ATC | [Website](https://at-sky.com/san-pham.html) | `Linh kiện`, `thiết bị` | HCM |
 | CXT | [Website](https://linhkien.cxt.vn/) | `Linh kiện`, `thiết bị` | HN |
-| Sản Phẩm SmartHome | [Website](https://sanphamsmarthome.vn/) | `Linh kiện`, `thiết bị` | |
-| Tuấn Cường | [Website](https://linhkientuancuong.com/) | `Linh kiện`, `thiết bị` | |
-| Banlinhkien | [Website](https://banlinhkien.com/) | `Linh kiện`, `thiết bị` | |
+| Sản Phẩm SmartHome | [Website](https://sanphamsmarthome.vn/) | `Linh kiện`, `thiết bị` | HN |
+| Tuấn Cường | [Website](https://linhkientuancuong.com/) | `Linh kiện`, `thiết bị` | HN |
+| Banlinhkien | [Website](https://banlinhkien.com/) | `Linh kiện`, `thiết bị` | HN |
 | Linhkien69 | [Website](http://linhkien69.vn/) | `Linh kiện`, `thiết bị` | HN |
-| Hshop | [Website](https://hshop.vn/) | `Linh kiện`, `thiết bị` | |
-| Mualinhkien | [Website](https://mualinhkien.vn/) | `Linh kiện`, `thiết bị` | |
+| Hshop | [Website](https://hshop.vn/) | `Linh kiện`, `thiết bị` | HCM |
+| Mualinhkien | [Website](https://mualinhkien.vn/) | `Linh kiện`, `thiết bị` | HN |
 | IoTMakerVN | [Website](https://iotmaker.vn/) | `Linh kiện`, `thiết bị` | HCM |
-| Lập Trình Điều Khiển | [Website](http://laptrinhdieukhien.com/) | `Linh kiện`, `thiết bị` | |
-| TAE Shop | [Website](https://tae.vn/) | `Linh kiện`, `thiết bị` | |
-| Linhkienrobotics | [Website](http://linhkienrobotics.com/) | `Linh kiện`, `thiết bị` | |
+| Lập Trình Điều Khiển | [Website](http://laptrinhdieukhien.com/) | `Linh kiện`, `thiết bị` | HCM |
+| TAE Shop | [Website](https://tae.vn/) | `Linh kiện`, `thiết bị` | HCM |
+| Linhkienrobotics | [Website](http://linhkienrobotics.com/) | `Linh kiện`, `thiết bị` | HN |
 | ProE | [Website](http://www.proe.vn/) | `Linh kiện`, `thiết bị` | HCM |
-| Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | |
-| ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | |
+| Dientuachau | [Website](http://www.dientuachau.com/) | `Linh kiện`, `thiết bị` | HCM |
+| ESshop | [Website](https://www.esshop.vn) | `Linh kiện`, `thiết bị` | HCM |
 | TME | [Website](http://tme.vn/) | `Linh kiện`, `thiết bị` | HCM |
-| Ahtlab | [Website](https://ahtlab.com/) | `Linh kiện`, `thiết bị` | |
-| Cường Thuận | [Website](https://linhkienbandan.com/) | `Linh kiện`, `thiết bị` | |
-| RP | [Website](https://store.rpc.vn/) | `Linh kiện`, `thiết bị` | |
+| Ahtlab | [Website](https://ahtlab.com/) | `Linh kiện`, `thiết bị` | HCM |
+| Cường Thuận | [Website](https://linhkienbandan.com/) | `Linh kiện`, `thiết bị` | HN |
+| RP | [Website](https://store.rpc.vn/) | `Linh kiện`, `thiết bị` | HN, HCM, ĐN, Đại lý quốc tế |
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Linh kiện`, `thiết bị` | HN |
-| HTPro | [Website](https://htpro.vn/) | `Linh kiện`, `thiết bị` | |
-| Vietnic| [Website](https://www.vietnic.vn/) | `Linh kiện`, `thiết bị` | |
-| SMD Elec | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | |
-| Điện Tử Giá Tốt | [Website](http://dientugiatot.vn/) | `Linh kiện`, `thiết bị` | |
+| HTPro | [Website](https://htpro.vn/) | `Linh kiện`, `thiết bị` | HCM |
+| Vietnic| [Website](https://www.vietnic.vn/) | `Linh kiện`, `thiết bị` | ĐN |
+| SMD Elec | [Website](http://linhkienviet.vn/) | `Linh kiện`, `thiết bị` | HN |
+| Điện Tử Giá Tốt | [Website](http://dientugiatot.vn/) | `Linh kiện`, `thiết bị` | HN |
 | TGPCB | [Website](https://shopee.vn/shop/60399497/search) | `Linh kiện`, `thiết bị` | Shopee|
 | ThienPhucElec | [Website](https://thienphucelectronics.com/) | `Linh kiện`, `thiết bị` | HN |
 | LinhKienMachDien | [Website](http://linhkienmachdien.com/) | `Linh kiện`, `thiết bị` | HCM |
