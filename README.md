@@ -42,7 +42,7 @@
 | TME | [Website](http://tme.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Ahtlab | [Website](https://ahtlab.com/) | `Linh kiện`, `thiết bị` | HCM |
 | Cường Thuận | [Website](https://linhkienbandan.com/) | `Linh kiện`, `thiết bị` | HN |
-| RP | [Website](https://store.rpc.vn/) | `Linh kiện`, `thiết bị` | HN, HCM, ĐN, Đại lý quốc tế |
+| RP | [Website](https://store.rpc.vn/) | `Linh kiện`, `thiết bị` | HN, HCM, ĐN |
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Linh kiện`, `thiết bị` | HN |
 | HTPro | [Website](https://htpro.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Vietnic| [Website](https://www.vietnic.vn/) | `Linh kiện`, `thiết bị` | ĐN |
@@ -76,6 +76,7 @@
 | Reichelt | [Website](https://www.reichelt.de/) | `Linh kiện`, `thiết bị` | DE |
 | Pollin | [Website](https://www.pollin.de/) | `Linh kiện`, `thiết bị` | DE |
 | ELV | [Website](https://de.elv.com/) | `Linh kiện`, `thiết bị` | DE |
+| RP | [Website](https://store.rpc.vn/) | `Linh kiện`, `thiết bị` | HN, HCM, ĐN |
 | RichardsonRFPD | [Mr. Trưởng](https://www.facebook.com/huutruongle) | `Linh kiện`, `thiết bị` | HN |
 | E-SKY - Panasonic | [Mr. Ngọc](https://www.facebook.com/toan.trinhngoc.9) | `Relay`, `PIR`, `switch`, `connector` | HN |
 
