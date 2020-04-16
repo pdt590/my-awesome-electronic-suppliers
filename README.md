@@ -106,7 +106,7 @@
 | Quang Trường | [Website](http://dientuquangtruong.com) | `Mạch in, gia công PCB` | HN |
 | Enogy | [Website](https://enogyglobal.com/) | `Gia công sản xuất điện tử` | HN |
 | AHTlab | [Website](https://ahtlab.com/) | `Thiết kế PCB, Gia công PCB` | HCM |
-| Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng link kiện` | HN |
+| Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng linh kiện` | HN |
 | HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | HN |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Sản xuất điện tử` | HN |
 | PNlab | [Website](https://www.pnlabvn.com/) | `Gia công PCB`, `Sản xuất điện tử` | HN |
