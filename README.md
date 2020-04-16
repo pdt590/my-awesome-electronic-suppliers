@@ -67,15 +67,17 @@
 |   ---   | ---     | ---      | ---   |
 | LCSC | [Website](https://lcsc.com/en) | `Linh kiện`, `thiết bị` | CN |
 | Mouser | [Website](https://www.mouser.vn/) | `Linh kiện`, `thiết bị` | US |
-| Arrow | [Website](https://www.arrow.com/) | `Linh kiện`, `thiết bị` |  |
-| Avnet | [Website](https://www.avnet.com/wps/portal/apac) | `Linh kiện`, `thiết bị` | |
-| Digikey | [Website](https://www.digikey.vn/) | `Linh kiện`, `thiết bị` | |
+| Arrow | [Website](https://www.arrow.com/) | `Linh kiện`, `thiết bị` | US |
+| Avnet | [Website](https://www.avnet.com/wps/portal/apac) | `Linh kiện`, `thiết bị` | US |
+| Digikey | [Website](https://www.digikey.vn/) | `Linh kiện`, `thiết bị` | US |
+| Element14 | [Website](https://www.element14.com/) | `Linh kiện`, `thiết bị` | UK |
+| Farnell | [Website](https://www.farnell.com/) | `Linh kiện`, `thiết bị` | UK |
 | RS-online | [Website](https://de.rs-online.com) | `Linh kiện`, `thiết bị` | DE |
 | Reichelt | [Website](https://www.reichelt.de/) | `Linh kiện`, `thiết bị` | DE |
 | Pollin | [Website](https://www.pollin.de/) | `Linh kiện`, `thiết bị` | DE |
 | ELV | [Website](https://de.elv.com/) | `Linh kiện`, `thiết bị` | DE |
-| RichardsonRFPD | [Mr. Trưởng](https://www.facebook.com/huutruongle) | `Linh kiện`, `thiết bị` | |
-| E-SKY - Panasonic | [Mr. Ngọc](https://www.facebook.com/toan.trinhngoc.9) | `Relay`, `PIR`, `switch`, `connector` | |
+| RichardsonRFPD | [Mr. Trưởng](https://www.facebook.com/huutruongle) | `Linh kiện`, `thiết bị` | HN |
+| E-SKY - Panasonic | [Mr. Ngọc](https://www.facebook.com/toan.trinhngoc.9) | `Relay`, `PIR`, `switch`, `connector` | HN |
 
 # Manufacturers (Công ty gia công)
 
