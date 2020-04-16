@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| Bopultd.vn | [Website](https://shopee.vn/bopultd.vn | `Linh kiện`, `thiết bị` | |
 | Vntech24h | [Website](https://vntech24h.com/) | `Linh kiện`, `thiết bị` | HN |
 | Dientuspider | [Website](http://www.dientuspider.com/) | `Linh kiện`, `thiết bị` | ĐN |
 | Dientu360 | [Website](https://dientu360.com/) | `Linh kiện`, `thiết bị` | HN |
@@ -18,7 +19,7 @@
 | KT Shop | [Website](https://shopee.vn/trinh.nck) | `Linh kiện`, `thiết bị` | |
 | LinhKienCauGiay | [Website](https://www.linhkiencaugiay.com/) | `Linh kiện`, `thiết bị` | |
 | BachViet | [Website](https://dientubachviet.com/) | `Linh kiện`, `thiết bị` | |
-| Nshop | [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | |
+| Nshop | [Website](https://nshopvn.com/) | `Linh kiện`, `thiết bị` | HCM |
 | ICdayroi | [Website](https://icdayroi.com/) | `Linh kiện`, `thiết bị`, `Cắt khắc laser` | |
 | Thegioichip | [Website](https://thegioichip.com.vn/) | `Linh kiện`, `thiết bị` | |
 | Roboconshop | [Website](http://www.roboconshop.com/San-Pham.aspx) | `Linh kiện`, `thiết bị` | |
