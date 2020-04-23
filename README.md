@@ -79,6 +79,7 @@
 | RP | [Website](https://store.rpc.vn/) | `Linh kiện`, `thiết bị` | HN, HCM, ĐN |
 | RichardsonRFPD | [Mr. Trưởng](https://www.facebook.com/huutruongle) | `Linh kiện`, `thiết bị` | HN |
 | E-SKY - Panasonic | [Mr. Ngọc](https://www.facebook.com/toan.trinhngoc.9) | `Relay`, `PIR`, `switch`, `connector` | HN |
+| Digikey | [TGPCB](https://www.facebook.com/TGPCB) | `Relay`, `PIR`, `switch`, `connector` | HCM |
 
 # Manufacturers (Công ty gia công)
 
