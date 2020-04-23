@@ -123,6 +123,8 @@
 | PCBWay  | [Website](https://www.pcbway.com/) | `Gia công PCB` | CN |
 | SZOMK  | [Website](https://www.chinaenclosure.com/) | `Vỏ hộp` | CN |
 | Hongfashunda | [Website](http://www.enclosure-box-mould.com/) | `Vỏ hộp` | CN |
+| Bahar | [Website](http://www.bahar.asia/) | `Vỏ hộp` | CN |
+| Takachi | [Website](http://www.takachi-enclosure.com/) | `Vỏ hộp` | JP |
 | Boxco  | [Website](http://www.boxco.eu/) | `Vỏ hộp` | KR |
 | 深圳市精匠玻璃科技有限公司  | [Website](https://jingjang.1688.com/?spm=a261y.7663282.autotrace-topNav.1.6df16d93MLogH4) | `Mặt kính` | CN |
 | 深圳LCD液晶屏LED背光源生 | [Website](https://item.taobao.com/item.htm?spm=a1z02.1.2016030118.d2016038.3726782dpIMngJ&id=565878864894&scm=1007.10157.81291.100200300000000&pvid=2e6fd92e-ba20-4104-881b-fdd9be6b95b2) | `Tấm dẫn cảm ứng` | CN |
