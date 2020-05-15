@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| LinhkienTCP | [Website](http://linhkientcp.vn/) | `Linh kiện`, `thiết bị` | HN |
 | SMDChip | [Website](http://smdchip.vn/) | `Linh kiện`, `thiết bị` | HN |
 | Bopultd.vn | [Website](https://shopee.vn/bopultd.vn) | `Linh kiện`, `thiết bị` | Shopee |
 | Vntech24h | [Website](https://vntech24h.com/) | `Linh kiện`, `thiết bị` | HN |
@@ -32,7 +33,7 @@
 | Banlinhkien | [Website](https://banlinhkien.com/) | `Linh kiện`, `thiết bị` | HN |
 | Linhkien69 | [Website](http://linhkien69.vn/) | `Linh kiện`, `thiết bị` | HN |
 | Hshop | [Website](https://hshop.vn/) | `Linh kiện`, `thiết bị` | HCM |
-| Mualinhkien | [Website](https://mualinhkien.vn/) | `Linh kiện`, `thiết bị` | HN |
+| Mualinhkien (Tuhu) | [Website](https://mualinhkien.vn/) | `Linh kiện`, `thiết bị` | HN |
 | IoTMakerVN | [Website](https://iotmaker.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | Lập Trình Điều Khiển | [Website](http://laptrinhdieukhien.com/) | `Linh kiện`, `thiết bị` | HCM |
 | TAE Shop | [Website](https://tae.vn/) | `Linh kiện`, `thiết bị` | HCM |
