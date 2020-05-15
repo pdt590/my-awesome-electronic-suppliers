@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| SMDChip | [Website](http://smdchip.vn/) | `Linh kiện`, `thiết bị` | HN |
 | Bopultd.vn | [Website](https://shopee.vn/bopultd.vn) | `Linh kiện`, `thiết bị` | Shopee |
 | Vntech24h | [Website](https://vntech24h.com/) | `Linh kiện`, `thiết bị` | HN |
 | Dientuspider | [Website](http://www.dientuspider.com/) | `Linh kiện`, `thiết bị` | ĐN |
