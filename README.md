@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| MCA | [Website](https://mcamotioncontrol.com) | `Linh kiện`, `thiết bị` | BD |
 | LinhkienTCP | [Website](http://linhkientcp.vn/) | `Linh kiện`, `thiết bị` | HN |
 | SMDChip | [Website](http://smdchip.vn/) | `Linh kiện`, `thiết bị` | HN |
 | Bopultd.vn | [Website](https://shopee.vn/bopultd.vn) | `Linh kiện`, `thiết bị` | Shopee |
@@ -89,6 +90,8 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| MCA | [Website](https://mcamotioncontrol.com/category/gia-cong-pcb) | `Gia công SMT`, `Gia công PCB` | BD |
+| Thegioichip | [Website](https://thegioichip.com.vn/pages/gia-cong-mach-in-pcb) | `Gia công SMT`, `Gia công PCB | HCM |
 | Vntech24h | [Website](https://vntech24h.com/) | `Gia công SMT`, `Gia công PCB` | HN |
 | Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | BD |
 | Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | BD |
