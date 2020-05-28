@@ -91,7 +91,7 @@
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
 | MCA | [Website](https://mcamotioncontrol.com/category/gia-cong-pcb) | `Gia công SMT`, `Gia công PCB` | BD |
-| Thegioichip | [Website](https://thegioichip.com.vn/pages/gia-cong-mach-in-pcb) | `Gia công SMT`, `Gia công PCB | HCM |
+| +Thegioichip | [Website](https://thegioichip.com.vn/pages/gia-cong-mach-in-pcb) | `Gia công SMT`, `Gia công PCB | HCM |
 | Vntech24h | [Website](https://vntech24h.com/) | `Gia công SMT`, `Gia công PCB` | HN |
 | Sunching | [Website](https://www.sunchingpcb.com/) | `Gia công PCB` | BD |
 | Fab-9 Việt Nam | [Website](https://www.fab-9.com/services) | `Gia công PCB` | BD |
@@ -114,7 +114,7 @@
 | Enogy | [Website](https://enogyglobal.com/) | `Gia công sản xuất điện tử` | HN |
 | AHTlab | [Website](https://ahtlab.com/) | `Thiết kế PCB, Gia công PCB` | HCM |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu) | `Gia công SMT`, `Đặt hàng linh kiện` | HN |
-| HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | HN |
+| +HataKey| [Website](https://hatakey.com.vn/) | `Gia công SMT, PCB` | HN |
 | Xưởng Điện Tử | [Website](https://www.facebook.com/xuongdientu/) | `Sản xuất điện tử` | HN |
 | PNlab | [Website](https://www.pnlabvn.com/) | `Gia công PCB`, `Sản xuất điện tử` | HN |
 | Phím Điện Tử | [Website](http://phimdientu.vn/) | `Tem nhãn, Decal, Bề mặt máy` | HN |
