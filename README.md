@@ -4,6 +4,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| TKTech | [Website](https://tktech.vn/) | `Thiết bị đo` | HCM |
 | MCA | [Website](https://mcamotioncontrol.com) | `Linh kiện`, `thiết bị` | BD |
 | LinhkienTCP | [Website](http://linhkientcp.vn/) | `Linh kiện`, `thiết bị` | HN |
 | SMDChip | [Website](http://smdchip.vn/) | `Linh kiện`, `thiết bị` | HN |
@@ -15,7 +16,7 @@
 | LinhKienDienTu | [Website](https://linhkiendientu.vn/) | `Linh kiện`, `thiết bị` | HCM |
 | PinNguonNuoi | [Website](http://www.pinnuoinguon.vn/index.aspx) | `Các loại Pin` | HCM |
 | Khang Minh Battery | [Website](https://www.suapinlaptop.vn/Cell-pin-Li-ion-Ni-Mh-cac-loai.html) | `Cell Pin` | HCM |
-| EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | HN, HCM, ĐN |
+| +EMIN | [Website](https://emin.vn/san-pham-1/pa.html) | `Thiết bị đo`, `Thiết bị hàn` | HN, HCM, ĐN |
 | Nihonsuperior | [Website](http://www.nihonsuperior.co.th/vi/category/lead-free-solder/) | `Thiếc hàn`, `Kem hàn` | HN |
 | Truong Thinh | [Website](http://tti.vn/) | `Vỏ hộp` | HCM |
 | Wanchi | [Website](https://wanchi.vn/) | `Vỏ hộp` | HCM |
