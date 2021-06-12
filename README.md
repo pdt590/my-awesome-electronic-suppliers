@@ -91,6 +91,7 @@
 
 |   Tên   | Liên Hệ | Sản Phẩm | Chú ý |
 |   ---   | ---     | ---      | ---   |
+| +3PTech | [Website](https://3ptech.vn/en/) | `Gia công SMT`, `Gia công PCB` | HN |
 | MCA | [Website](https://mcamotioncontrol.com/category/gia-cong-pcb) | `Gia công SMT`, `Gia công PCB` | BD |
 | +Thegioichip | [Website](https://thegioichip.com.vn/pages/gia-cong-mach-in-pcb) | `Gia công SMT`, `Gia công PCB | HCM |
 | Vntech24h | [Website](https://vntech24h.com/) | `Gia công SMT`, `Gia công PCB` | HN |
